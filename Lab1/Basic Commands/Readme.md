@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
-![Alt text](<1.png>)
-![Alt text](<2.png>)
-![Alt text](<3.png>)
-![Alt text](<4.png>)
+<code><img src="https://github.com/Amaanvahora/BCDV-4032/blob/main/Lab1/Basic%20Commands/1.png"></code>
+<code><img src="https://github.com/Amaanvahora/BCDV-4032/blob/main/Lab1/Basic%20Commands/2.png"></code>
+<code><img src="https://github.com/Amaanvahora/BCDV-4032/blob/main/Lab1/Basic%20Commands/3.png"></code>
+<code><img src="https://github.com/Amaanvahora/BCDV-4032/blob/main/Lab1/Basic%20Commands/4.png"></code>
