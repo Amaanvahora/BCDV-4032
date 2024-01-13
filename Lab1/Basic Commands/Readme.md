@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
-![Alt text](<Screenshot 2024-01-13 032438.png>)
+![Alt text](<Lab1/Basic Commands/Screenshot 2024-01-13 032438.png>)
 ![Alt text](<Screenshot 2024-01-13 032455.png>)
 ![Alt text](<Screenshot 2024-01-13 032517.png>)
 ![Alt text](<Screenshot 2024-01-13 032841.png>)
