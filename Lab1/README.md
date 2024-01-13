@@ -1,6 +1,6 @@
-# LAb 1 Readme file
+# Lab 1 Readme file
 Name: Amaan Vahora
-Student ID : 101492067
+Student ID: 101492067
 ## Basic Commands
 
 You can find basic commands in the [Amaan's Basic Commands README](Lab1/Basic%20Commands/README.md) file.
