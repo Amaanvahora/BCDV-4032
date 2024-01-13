@@ -1,10 +1,20 @@
-Name: Amaan Vahora <br>
-Student ID:-101492067 <br>
-Basic Commands:- [here](Lab1/Basic Commands/README.md)
+# Main README
 
-Webapps with Docker:- [here](Lab1/Webapps with Docker/README.md)
+This is the main README file.
 
-Deploying an app to a Swarm:- [here](Lab1/Deploying an app to a Swarm/README.md)
+## Basic Commands
 
-Proof of work:-
-<code><img src="https://github.com/Amaanvahora/BCDV-4032/blob/main/Lab1output.png"></code>
+You can find basic commands in the [Basic Commands README](Lab1/Basic%20Commands/README.md) file.
+
+## Webapps with Docker
+
+You can find web apps with Docker in the [Webapps with Docker README](Lab1/Webapps%20with%20Docker/README.md) file.
+
+## Deploying an app to a Swarm
+
+You can find deploying an app to a Swarm in the [Deploying an app to a Swarm README](Lab1/Deploying%20an%20app%20to%20a%20Swarm/README.md) file.
+
+## Proof of work
+
+Docker UserName:- amxxn12 [Deploying an app to a Swarm README](Lab1output.png) file.
+
